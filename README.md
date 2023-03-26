@@ -27,3 +27,6 @@
   <a href="https://steamcommunity.com/id/lumenzada/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://open.spotify.com/playlist/1h83oxST1b7xq7cSUfdkNG?si=887565d079194a87" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/luismendess/luismendess/blob/output/github-contribution-grid-snake.svg)
+
