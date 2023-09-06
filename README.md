@@ -36,4 +36,4 @@
 </div>
 
 ##
-![Snake animation](https://github.com/luismendess/luismendess/blob/output/github-contribution-grid-snake.svg)
+#![Snake animation](https://github.com/luismendess/luismendess/blob/output/github-contribution-grid-snake.svg)
