@@ -88,8 +88,7 @@
 </div>
 
 ###
-
-
-<img src="https://raw.githubusercontent.com/luismendess/luismendess/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  
+![snake gif](https://github.com/luismendess/luismendess/blob/output/github-snake-dark.svg)  
+</div>
