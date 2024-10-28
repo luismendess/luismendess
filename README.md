@@ -3,8 +3,6 @@
 </a>
 <img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
 
-<br clear="both">
-
 ###
 
 <h1 align="center"></h1>
