@@ -1,7 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hello+World!;I'm+Luis%2C+welcome!" alt="Typing SVG" /></a>
-<div align="center">  
-<img height="100" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
-</div>
+
+<img align="right" height="100" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
+
+###
+
 <h1 align="center"></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luismendess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20stats" height="150" alt="stats graph"/>
