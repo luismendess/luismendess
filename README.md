@@ -5,8 +5,6 @@
 </a>
 <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
 </div>
-<br clear="both">
-
 <h1 align="center"></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luismendess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20stats" height="150" alt="stats graph"/>
