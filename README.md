@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
+<img align="right" height="300" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
 
 ###
 
