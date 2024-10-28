@@ -1,21 +1,25 @@
-<div align="center" height="200">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=true&multiline=true&width=435&height=50&lines=Hello%2C+World!;I'm+Luis%2C+welcome!" align="center" alt="Typing SVG" />
-    </a>
-    <img align="right" height="100" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
-</div>
+<br clear="both">
+
+###
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=true&multiline=true&width=435&height=50&lines=Hello%2C+World!;I'm+Luis%2C+welcome!" align="center" alt="Typing SVG" />
+</a>
+<img align="right" height="100" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
+
+<br clear="both">
 
 ###
 
+<h1 align="center"></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luismendess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=luismendess&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luismendess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Social Media</h2>
-
 ###
+
+<h2 align="left">Social Media</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/luishmendes__/" target="_blank">
@@ -37,10 +41,6 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
-
-###
-
-
 
 ###
 
@@ -88,7 +88,6 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/luismendess/luismendess/output/snake.svg" alt="Snake animation" />
 
