@@ -1,8 +1,15 @@
-<a href="https://git.io/typing-svg" align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=false&multiline=true&width=435&height=70&lines=Hello%2C+World!;I'm+Luis%2C+welcome!" alt="Typing SVG" />
-</a>
-
-<img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136" style="margin-top: -40px;" />
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=false&multiline=true&width=435&height=70&lines=Hello%2C+World!;I'm+Luis%2C+welcome!" alt="Typing SVG" />
+      </a>
+    </td>
+    <td>
+      <img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136" />
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
