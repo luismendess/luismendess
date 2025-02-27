@@ -1,5 +1,5 @@
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=1000&color=0CDCF7&center=true&vCenter=true&multiline=true&width=350&height=70&lines=Hello+World!;I'm+Luis%2C+welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=1500&pause=500&color=0CDCF7&center=true&vCenter=true&multiline=true&width=350&height=70&lines=Hello+World!;My+name+is+Luis%2C+welcome!" alt="Typing SVG" /></a>
 <img height="160" align="right" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136"  />
 </a>
 <br clear="both">
@@ -20,32 +20,32 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Socials:</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/luishmendes__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="discordapp.com/users/lumenzada" target="_blank">
+  <!--<a href="discordapp.com/users/lumenzada" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="mailto:luismendes.2020@alunos.utfpr.edu.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luis-hfp-mendes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://steamcommunity.com/id/lumenzada/" target="_blank">
+  <!-- <a href="https://steamcommunity.com/id/lumenzada/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/playlist/1h83oxST1b7xq7cSUfdkNG?si=887565d079194a87" target="_blank">
+  </a> -->
+  <!-- <a href="https://open.spotify.com/playlist/1h83oxST1b7xq7cSUfdkNG?si=887565d079194a87" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
+  </a> -->
 </div>
 
 ###
 
-<h2 align="left">Languages and Frameworks</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
